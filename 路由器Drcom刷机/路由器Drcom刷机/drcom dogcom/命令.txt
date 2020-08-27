@@ -1,0 +1,17 @@
+openwrt
+测试
+/usr/dogcom -m dhcp -c /usr/drcom.conf -v
+
+添加启动项
+/usr/dogcom -m dhcp -c /usr/drcom.conf -d -e
+
+
+padavan
+测试
+/etc/storage/bin/dogcom -m dhcp -c /etc/storage/bin/drcom.conf -v
+
+添加启动项
+/etc/storage/bin/dogcom -m dhcp -c /etc/storage/bin/drcom.conf -e -d
+
+保存配置
+mtd_storage.sh save

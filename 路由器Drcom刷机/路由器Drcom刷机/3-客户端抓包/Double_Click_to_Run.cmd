@@ -1,0 +1,1 @@
+python drcom_d_config.py>config.txt

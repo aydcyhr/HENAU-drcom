@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="gb2312"?>
+<config>
+  <user>root</user>
+  <pwd>输入密码</pwd>
+  <breed>breed-mt7620-xiaomi-mini.bin</breed>
+  <IP>192.168.31.1</IP>
+  <port>22</port>
+  <方案>小米路由器mini方案[需要开启路由器ssh服务]</方案>
+</config>

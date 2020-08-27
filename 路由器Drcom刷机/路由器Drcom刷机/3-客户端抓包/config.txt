@@ -1,0 +1,18 @@
+pcapng file: dr.pcapng
+copy following statements to drcom.conf or overwrite field between "# CONFIG" and "# CONFIG_END" in latest-wired.py
+
+
+server = '10.0.108.3'
+username='dlxy'
+password='888888'
+CONTROLCHECKSTATUS = '\x20'
+ADAPTERNUM = '\x05'
+host_ip = '172.19.120.103'
+IPDOG = '\x01'
+host_name = 'DRCOMFUCKER'
+PRIMARY_DNS = '202.196.80.1'
+dhcp_server = '172.19.120.1'
+AUTH_VERSION = '\x22\x00'
+mac = 0x0028f821c9ba
+host_os = 'WINDIAOS'
+KEEP_ALIVE_VERSION = '\xdc\x02'
