@@ -1,5 +1,0 @@
-PandoraBox-ralink-mt7620-xiaomi-mini-squashfs-sysupgrade-r1055-20150615_5.5M.bin 可用于小米路由器mini和斐讯K1K2，但是K1/K2不够空间安装Adbyby了
-K2-PandoraBox-160922-adbyby.bin 预装adbyby，推荐使用这个固件
-K2-PandoraBox-160922-no-usb.bin 剩余572.00 KB，无预装
-RT-AC54U-GPIO-1-PSG1208-64M_3.4.3.9-099.trx 华硕固件，非校园网用
-若需要其他品牌路由器的潘多拉固件，可以访问http://downloads.openwrt.org.cn/PandoraBox下载

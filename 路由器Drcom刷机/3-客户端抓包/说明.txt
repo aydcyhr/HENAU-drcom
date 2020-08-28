@@ -1,2 +1,0 @@
-抓包生成的dr.pcapng放在这个目录，双击Double_Click_to_Run.cmd运行会自动生成config.txt
-注意需要预先配置好python环境

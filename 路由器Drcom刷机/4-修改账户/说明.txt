@@ -1,2 +1,0 @@
-修改#config与#config_end之间的配置信息为生成的config.txt里面的
-保存为drcom
