@@ -1,0 +1,8 @@
+更多信息加入刷机交流群：229140997
+
+Tomato Phoenix 不死鸟固件登陆地址 http://192.168.1.1 
+Tomato Phoenix 不死鸟固件默认用户名 root
+Tomato Phoenix 不死鸟固件默认密码 tomato.org.cn
+Tomato Phoenix 默认无线密码 1234567890
+
+用户名 root 密码 tomato.org.cn 无线密码 1234567890

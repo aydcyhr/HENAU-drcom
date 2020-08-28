@@ -1,0 +1,6 @@
+opkg install /tmp/1zlib_1.2.8-1_ralink.ipk
+opkg install /tmp/2python-mini.ipk
+opkg install /tmp/adbyby_2.7-7.0_ralink.ipk
+
+PandoraBox-ralink-mt7620-xiaomi-mini-squashfs-sysupgrade-r1055-20150615_5.5M.bin固件需要
+首先安装1zlib_1.2.8-1_ralink.ipk，其他固件不需要安装这个

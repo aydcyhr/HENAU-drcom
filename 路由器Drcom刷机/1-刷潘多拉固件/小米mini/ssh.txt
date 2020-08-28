@@ -1,0 +1,3 @@
+
+
+mtd -r write /tmp/breed-xiaomimini.bin Bootloader

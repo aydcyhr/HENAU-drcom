@@ -1,0 +1,3 @@
+drcom放在\usr\bin
+命令行赋予权限
+chmod +x /usr/bin/drcom
